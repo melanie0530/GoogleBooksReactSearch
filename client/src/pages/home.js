@@ -12,7 +12,7 @@ class Home extends Component {
     state = {
         books: [],
         q: "",
-        message: "Search For A Book!"
+        message: "Feed Me with Search"
     };
     handleInputChange = event => {
         const { name, value } = event.target;

@@ -13,3 +13,8 @@
     background:white;
     border:solid black 1px;
     }
+    .text-center{
+        font-weight:bold;
+        color: rgb(154, 154, 207);
+        text-shadow:rgb(1, 19, 1) 2px 6px;
+    }
