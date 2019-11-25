@@ -1,0 +1,16 @@
+.banner{
+    background: rgb(97,106,147);
+    background: linear-gradient(90deg, rgba(97,106,147,1) 0%, rgba(100,145,120,1) 35%, rgba(24,86,158,1) 74%, rgba(65,101,163,1) 85%, rgba(61,87,165,1) 91%, rgba(55,67,168,0.9836309523809523) 100%);     background-position:center;
+    background-size:cover;
+    box-shadow: 5px 10px 80px #080505;
+}
+
+.banner h1 {
+    margin:auto;
+    text-align: center;
+    border-radius:10px;
+    color:white;
+    font-weight: bold;
+    text-shadow: 2px 2px 50px rgb(13, 153, 218);
+    text-shadow:3px 5px 3px  black;
+}

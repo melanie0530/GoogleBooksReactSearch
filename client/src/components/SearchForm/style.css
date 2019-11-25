@@ -1,0 +1,39 @@
+#searchForm {
+    width:90%;
+    min-height:32vh;
+    height:auto;
+    margin:auto;
+    background-color:#273038;
+    color:white;
+    border-radius:2px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+#searchForm input{
+    width:90%;
+    margin-left:5%;
+    text-shadow:none;
+}
+
+
+.buttonSubmit{
+    background:rgb(214, 18, 18);
+    color:white;
+    border:none;
+    padding:10px;
+    border-radius:4px;
+    min-width:15vw;
+    margin:auto;
+    margin-right:5%;
+    margin-top:2%;
+    float:right;
+    margin-top:35px;
+}
+
+.searchByTitle{
+    margin:10px;
+    padding:40px;
+    text-align:center;
+
+}
+

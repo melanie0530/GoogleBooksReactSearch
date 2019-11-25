@@ -1,0 +1,19 @@
+h3, a, p, h5, button{
+    text-shadow:none;
+    color:black;
+}
+
+.buttonView{
+color:white;
+background:black;
+padding:10px;
+border-radius:2px;
+margin:5px;
+}
+
+.buttonView:hover{
+text-decoration-line:none;
+color:black;
+background:white;
+border:solid black 1px;
+}
